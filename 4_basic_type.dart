@@ -44,4 +44,9 @@ multi-line string.""";
   // r 前缀, raw string
   var s8 = r'In a raw string, not even \n gets special treatment.';
   print('s8 = $s8');
+
+  // Booleans
+  // bool 布尔值，只有两个对象：true 和 false
+  bool t = true;
+  var f1 = false;
 }
